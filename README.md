@@ -40,4 +40,4 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 
 ### 👀 Profile Visits  
 
-![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AzraSevimli&color=blue&style=flat-square)
