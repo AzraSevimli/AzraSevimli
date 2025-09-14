@@ -30,6 +30,7 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 - [💡 4 LED Blink Project](https://github.com/AzraSevimli/4_led_blink)
 - [💡 LED Shift Project](https://github.com/AzraSevimli/led_shift)
 - [💡 Potentiometer LED Control](https://github.com/AzraSevimli/potentiometer_led_control)
+- [💡 RGB LED Application](https://github.com/AzraSevimli/rgb_led_application)
 
 ---
 
