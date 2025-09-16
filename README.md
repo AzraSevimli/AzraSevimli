@@ -31,6 +31,7 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 - [💡 LED Shift Project](https://github.com/AzraSevimli/led_shift)
 - [💡 Potentiometer LED Control](https://github.com/AzraSevimli/potentiometer_led_control)
 - [💡 RGB LED Application](https://github.com/AzraSevimli/rgb_led_application)
+- [💡 Dark Activated LED](https://github.com/AzraSevimli/dark_activated_led)
 
 ---
 
