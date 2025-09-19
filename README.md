@@ -26,6 +26,7 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 ---
 
 ### 🌟 Featured Projects 
+- [💡 Running Light](https://github.com/AzraSevimli/running_light)
 - [💡 LED Control With Slide Switch](https://github.com/AzraSevimli/led_control_with_slide_switch)
 - [💡 Dark Activated LED](https://github.com/AzraSevimli/dark_activated_led)
 - [💡 RGB LED Application](https://github.com/AzraSevimli/rgb_led_application)
