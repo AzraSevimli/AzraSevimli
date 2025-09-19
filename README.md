@@ -25,16 +25,13 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 
 ---
 
-### 🌟 Featured Projects  
-
+### 🌟 Featured Projects 
 - [💡 LED Control With Slide Switch](https://github.com/AzraSevimli/led_control_with_slide_switch)
 - [💡 Dark Activated LED](https://github.com/AzraSevimli/dark_activated_led)
 - [💡 RGB LED Application](https://github.com/AzraSevimli/rgb_led_application)
 - [💡 Potentiometer LED Control](https://github.com/AzraSevimli/potentiometer_led_control)
 - [💡 LED Shift Project](https://github.com/AzraSevimli/led_shift)
 - [💡 4 LED Blink Project](https://github.com/AzraSevimli/4_led_blink)
-
-
 
 ---
 
