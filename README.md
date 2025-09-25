@@ -26,6 +26,7 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 ---
 
 ### 🌟 Featured Projects 
+- [💡 7 Segment Display Counter](https://github.com/AzraSevimli/seven_segment_display_counter)
 - [💡 Ultrasonic Distance LED](https://github.com/AzraSevimli/ultrasonic_distance_led)
 - [💡 Random LED Lighting With Button](https://github.com/AzraSevimli/random_led_lighting_with_button)
 - [💡 Running Light](https://github.com/AzraSevimli/running_light)
