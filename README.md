@@ -26,6 +26,7 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 ---
 
 ### 🌟 Featured Projects 
+- [💡 RF Remote LED Control with Button](https://github.com/AzraSevimli/rf_remote_led_control_with_button)
 - [💡 Burglar Alarm System](https://github.com/AzraSevimli/burglar_alarm_system)
 - [💡 Parking Sensor Project](https://github.com/AzraSevimli/parking_sensor_project)
 - [💡 7 Segment Display Counter](https://github.com/AzraSevimli/seven_segment_display_counter)
