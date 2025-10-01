@@ -9,7 +9,7 @@ I'm still in the learning phase, and I’ll keep updating this list as I explore
 ### 📖 My Learning Journey  
 
 - 🔌 **Arduino Projects** – Basic circuits, sensors, and LED applications  
-- 💻 **Programming** – C++, Python, Arduino IDE  
+- 💻 **Programming** – C++, C#, Python, Arduino IDE  
 - 🔧 **Embedded Systems** – (Coming soon)  
 - 🎮 **Game Development** – (Coming soon)  
 
