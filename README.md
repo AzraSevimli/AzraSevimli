@@ -37,7 +37,7 @@ I'm currently in the learning phase and continuously improving my skills as I bu
 
 ## 📫 Contact Me  
 
-🌐 [LinkedIn](www.linkedin.com/in/azra-sevimli-82913a340) 
+🌐 [LinkedIn](https://www.linkedin.com/in/azra-sevimli-82913a340) 
 
 ## 
 
