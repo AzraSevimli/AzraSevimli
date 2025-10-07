@@ -49,4 +49,8 @@ I'm currently in the learning phase and continuously improving my skills as I bu
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AzraSevimli&color=0e75b6&style=flat-square" alt="Visitor Count" />
+</p>
 
+---
