@@ -4,8 +4,6 @@ I'm a **Computer Engineering** student at **Karamanoğlu Mehmetbey University**.
 My interests include **Arduino circuits**, **robotics**, **embedded systems**, and **game development**.  
 I'm currently in the learning phase and continuously improving my skills as I build new projects. 🚀  
 
----
-
 ## 🛠️ Languages & Tools  
 
 ![Arduino](https://skillicons.dev/icons?i=arduino)
@@ -20,8 +18,6 @@ I'm currently in the learning phase and continuously improving my skills as I bu
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-%23F37726.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![Fritzing](https://img.shields.io/badge/Fritzing-%23CC342D.svg?style=for-the-badge&logo=fritzing&logoColor=white)
 
----
-
 ## 🌱 Learning Journey  
 
 🔹 **Arduino** → Actively working on small to mid-level projects and system prototypes  
@@ -29,8 +25,6 @@ I'm currently in the learning phase and continuously improving my skills as I bu
 🔹 **C++ / C#** → Enhancing understanding of object-oriented programming and project development  
 🔹 **Tinkercad** → Creating and simulating circuit designs virtually  
 🔹 **Embedded Systems** → Learning to integrate sensors, microcontrollers, and software control  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -41,16 +35,13 @@ I'm currently in the learning phase and continuously improving my skills as I bu
 
 </div>
 
----
-
 ## 📫 Contact Me  
 
 🌐 [LinkedIn](www.linkedin.com/in/azra-sevimli-82913a340) 
 
----
+## 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AzraSevimli&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
 
----
