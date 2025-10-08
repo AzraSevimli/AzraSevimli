@@ -26,6 +26,24 @@ I'm currently in the learning phase and continuously improving my skills as I bu
 🔹 **Tinkercad** → Creating and simulating circuit designs virtually  
 🔹 **Embedded Systems** → Learning to integrate sensors, microcontrollers, and software control  
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+ [RF Remote LED Control with Button](https://github.com/AzraSevimli/rf_remote_led_control_with_button)  
+ [Burglar Alarm System](https://github.com/AzraSevimli/burglar_alarm_system)  
+ [Printing Data From Sensors to Nokia 5110 LCD Screen](https://github.com/AzraSevimli/printing_data_from_sensors_to_nokia_5110_lcd_screen)  
+ [Parking Sensor Project](https://github.com/AzraSevimli/parking_sensor_project)  
+ [Seven Segment Display Counter](https://github.com/AzraSevimli/seven_segment_display_counter)  
+ [Ultrasonic Distance LED](https://github.com/AzraSevimli/ultrasonic_distance_led)  
+ [Random LED Lighting with Button](https://github.com/AzraSevimli/random_led_lighting_with_button)  
+ [Running Light](https://github.com/AzraSevimli/running_light)  
+ [LED Control with Slide Switch](https://github.com/AzraSevimli/led_control_with_slide_switch)  
+ [Dark Activated LED](https://github.com/AzraSevimli/dark_activated_led)  
+
+</div>
+
+
 ## 📊 GitHub Stats  
 
 <div align="center">
