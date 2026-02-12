@@ -72,8 +72,6 @@ Sensor-triggered alarm prototype integrating motion detection and hardware-based
 
 ---
 
-## 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AzraSevimli&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
