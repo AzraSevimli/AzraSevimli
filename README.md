@@ -58,20 +58,11 @@ Sensor-triggered alarm prototype integrating motion detection and hardware-based
 
 ---
 
-## 🔎 Currently Improving
-
-- Writing modular and structured embedded C code  
-- Debugging hardware-level issues  
-- Improving serial communication reliability  
-- Designing cleaner system logic  
-
----
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzraSevimli&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzraSevimli&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzraSevimli&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzraSevimli&layout=compact)
 
 ---
 
