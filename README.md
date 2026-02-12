@@ -1,51 +1,61 @@
 # 👋 Hi, I'm Azra Sevimli  
 
-I'm a **Computer Engineering** student at **Karamanoğlu Mehmetbey University**.  
-My interests include **Arduino circuits**, **robotics**, **embedded systems**, and **game development**.  
-I'm currently in the learning phase and continuously improving my skills as I build new projects. 🚀  
+I’m a **Computer Engineering student** at **Karamanoğlu Mehmetbey University**, focused on **Embedded Systems**, **Microcontroller Programming**, and **Hardware–Software Integration**.
 
-## 🛠️ Languages & Tools  
+I develop Arduino-based systems, sensor-driven applications, and real-time control projects tested on physical hardware.  
+Currently improving my technical depth in embedded development and system design. 🚀  
 
-![Arduino](https://skillicons.dev/icons?i=arduino)
+---
+
+## 🛠️ Technical Stack  
+
+### 💻 Programming Languages  
+![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
-![C](https://skillicons.dev/icons?i=c)
 ![Python](https://skillicons.dev/icons?i=python)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+### 🧰 Development Tools  
 ![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Unity](https://skillicons.dev/icons?i=unity)
-![Unreal](https://skillicons.dev/icons?i=unreal)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-%23F37726.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
-![Fritzing](https://img.shields.io/badge/Fritzing-%23CC342D.svg?style=for-the-badge&logo=fritzing&logoColor=white)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
 
-## 🌱 Learning Journey  
+Arduino IDE • CodeBlocks • Jupyter Notebook • Tinkercad • Fritzing  
 
-🔹 **Arduino** → Actively working on small to mid-level projects and system prototypes  
-🔹 **Python** → Solid foundation; focusing on writing clean, structured code and improving logic skills  
-🔹 **C++ / C#** → Enhancing understanding of object-oriented programming and project development  
-🔹 **Tinkercad** → Creating and simulating circuit designs virtually  
-🔹 **Embedded Systems** → Learning to integrate sensors, microcontrollers, and software control  
+---
 
-## 🌟 Featured Projects
+## 🔬 Core Interests  
 
-<div align="center">
+- Embedded Systems  
+- Microcontroller Programming  
+- Sensor-Based Smart Systems  
+- Automotive Electronics  
+- Robotics & Autonomous Systems  
+- Hardware–Software Communication  
 
- [Arduino 4WD Car Project](https://github.com/AzraSevimli/Arduino_4WD_Car_Project)  
- [DC Motor Speed Control](https://github.com/AzraSevimli/dc_motor_speed_control)  
- [LED Control by Remote Control](https://github.com/AzraSevimli/led_control_by_remote_control)  
- [RF Remote LED Control with Button](https://github.com/AzraSevimli/rf_remote_led_control_with_button)  
- [Burglar Alarm System](https://github.com/AzraSevimli/burglar_alarm_system)  
- [Printing Data From Sensors to Nokia 5110 LCD Screen](https://github.com/AzraSevimli/printing_data_from_sensors_to_nokia_5110_lcd_screen)  
- [Parking Sensor Project](https://github.com/AzraSevimli/parking_sensor_project)  
- [Seven Segment Display Counter](https://github.com/AzraSevimli/seven_segment_display_counter)  
- [Ultrasonic Distance LED](https://github.com/AzraSevimli/ultrasonic_distance_led)  
- [Random LED Lighting with Button](https://github.com/AzraSevimli/random_led_lighting_with_button)  
- [Running Light](https://github.com/AzraSevimli/running_light)  
- [LED Control with Slide Switch](https://github.com/AzraSevimli/led_control_with_slide_switch)  
- [Dark Activated LED](https://github.com/AzraSevimli/dark_activated_led)  
+---
 
-</div>
+## 🌟 Featured Projects  
 
+### 🚗 Arduino 4WD Car Project  
+A 4-wheel drive robot car system implementing motor control logic and embedded control mechanisms on real hardware.  
+
+### 🖥️ Arduino LED Control via C# Windows Forms  
+Developed a desktop interface using C# Windows Forms to control Arduino LEDs via serial (UART) communication, demonstrating hardware–software integration.  
+
+### 🔐 RFID-Based Access Control System  
+Designed a card-based authentication system using Arduino and RFID module with UID validation and real-time feedback.  
+
+### 📡 Bluetooth Controlled LED System  
+Implemented wireless LED control using HC-05 Bluetooth module and real-time command processing.  
+
+### 🚨 Burglar Alarm System  
+Built a sensor-triggered alarm system providing visual and audio feedback to simulate real-world security scenarios.  
+
+🔎 **More than 23 hardware-based projects are available in my repositories.**
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -55,6 +65,8 @@ I'm currently in the learning phase and continuously improving my skills as I bu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzraSevimli&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 
 </div>
+
+---
 
 ## 📫 Contact Me  
 
